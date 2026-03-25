@@ -1,7 +1,7 @@
 # Projeto-Site-ChatBot-com-IA
 Projeto de um chatbot com IA usando o Streamlit e OpenAI
 
-## Funcionalidades
+## Apresentação do projeto
 
 - Nesse projeto vai ser criado um ChatBot todo em python usando o streamlit para a criar o front-end do site, e integrando com a openai para responder o usuário
 
